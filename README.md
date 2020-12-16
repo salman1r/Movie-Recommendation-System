@@ -1,2 +1,2 @@
 # Movie-Recommendation-System
-This model recommend the movie to the users on the basis of their previously seen movies record(Content based)
+This model recommends the movie to the users based on their previously seen movies record(Content-based)
